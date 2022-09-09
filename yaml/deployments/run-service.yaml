@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:boydj-workshop-application-c64fdbce038caa313a3a8f30296273b2fb01a9bb
+      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:boydj-workshop-application-ea5b4ac24be8253aade399084413a4cc8770660a
         imagePullPolicy: Always
         name: pause
         resources: {}
